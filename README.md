@@ -1,47 +1,44 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [USELESS PROJECT] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [ASTRAL PROJECTORS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Ancy Binu] - [Jyothi Engineering]
+- Member 2: [Neha L] - [Jyothi Engineering]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A 1-page “e-commerce” website that sells utterly useless items no sane person would ever need — from “Air in a Jar” to “Left Shoe Only.” Perfect for wasting time and imaginary money.]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem 
+[People have too many useful things in their lives. The world is drowning in practicality. No one has a place to spend their imaginary cash on products that serve no purpose whatsoever.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built an online store dedicated to selling the most absurd, impractical, and nonsensical objects imaginable. Click “Buy” and get nothing delivered — with a smile!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages used: HTML, CSS, JavaScript
+Frameworks used: None (we’re keeping it raw and pointless)
+Libraries used: None (why overcomplicate uselessness?)
+Tools used: VS Code, Git, GitHub Pages
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[git clone https://github.com/tinkerhub/useless_project_temp.git
+cd useless_project_temp
+]
 
 # Run
-[commands]
+[# Open index.html in your browser
+]
 
 ### Project Documentation
 For Software:
